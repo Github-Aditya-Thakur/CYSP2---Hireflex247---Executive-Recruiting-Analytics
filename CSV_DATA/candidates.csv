@@ -1,0 +1,301 @@
+candidate_id,candidate_name,years_experience,primary_skill,region
+1,Luis Cook,12,Power BI,APAC
+2,Alexis Pace,10,Power BI,UK
+3,Joshua Harris,1,AWS,India
+4,Angela Martinez,12,Azure,UK
+5,Christopher Marshall,11,SQL,UK
+6,David Moore,6,Snowflake,India
+7,Mary Burns,9,AWS,Europe
+8,Ryan Potter,12,Snowflake,India
+9,Richard Turner,8,Azure,Europe
+10,Michael Wilson,7,AWS,Africa
+11,Jimmy Villegas,12,Tableau,North America
+12,Deborah Wilson,3,Tableau,Africa
+13,Kelly May,5,ETL,UK
+14,Courtney Flynn,2,Snowflake,South America
+15,Brandon Harvey,10,Snowflake,South America
+16,Kelly Haynes,10,Azure,Middle East
+17,Jeremy Collins,5,AWS,North America
+18,Jeffrey Robertson,8,SQL,UK
+19,Hector Craig,8,Power BI,Europe
+20,Wendy Lewis,2,Python,Europe
+21,Tracy Fletcher,4,Tableau,India
+22,Emma Summers,4,Data Engineering,Africa
+23,Jared Ramos,5,SQL,South America
+24,Catherine Johnson,3,Tableau,UK
+25,Angelica Mason,5,SQL,India
+26,Jessica Davis,9,ETL,Africa
+27,Mary Andersen,10,AWS,APAC
+28,Craig Joseph,7,Tableau,Africa
+29,Mark Guerra,6,Azure,Middle East
+30,Allison Espinoza,7,Data Analytics,India
+31,Jonathan Roman Jr.,8,SQL,Europe
+32,Amanda Walker,11,Data Analytics,UK
+33,Samuel Maynard,1,Azure,South America
+34,Amanda Hess,3,Power BI,North America
+35,Katherine Williams,8,ETL,North America
+36,Christine Carter,1,Snowflake,India
+37,Cassidy Pope,3,Python,Middle East
+38,Renee Soto,3,Python,Europe
+39,Nancy Ayers MD,9,Data Engineering,Africa
+40,Krista Bennett,12,Azure,UK
+41,Jill Lee,2,Data Analytics,APAC
+42,Darren Sawyer,5,Power BI,APAC
+43,Daniel Anderson,2,Azure,South America
+44,Keith Olson,3,Snowflake,North America
+45,Carl Peters,10,ETL,North America
+46,Theresa Ryan,6,ETL,Africa
+47,Hannah Mendoza,9,Snowflake,North America
+48,Veronica Rodriguez,1,AWS,Europe
+49,Cindy Bryant,1,Tableau,APAC
+50,Kathleen Frazier,2,Data Engineering,North America
+51,Juan Ross,10,SQL,North America
+52,Tracy Foster,10,ETL,Africa
+53,Richard Phillips,10,SQL,Africa
+54,Andrew Garrett,3,Power BI,Africa
+55,James Macias,7,Python,Africa
+56,Mrs. Mary Pace DVM,4,Data Engineering,South America
+57,Alyssa Fernandez,12,Data Engineering,UK
+58,Samantha Reid,1,ETL,India
+59,David Pitts,1,Data Analytics,Europe
+60,Tanya Jackson,11,Python,APAC
+61,Richard Frank,8,Data Analytics,South America
+62,Patricia Barton,2,SQL,UK
+63,Abigail Sandoval,12,Tableau,Europe
+64,Kevin Mendoza,5,Python,Middle East
+65,Rebecca Ward,1,AWS,APAC
+66,Anthony Mitchell,3,Data Engineering,South America
+67,Jessica Savage,10,Snowflake,India
+68,Thomas Walton,6,Python,North America
+69,Dawn Ellis,7,Azure,India
+70,Erin Hogan,6,ETL,Africa
+71,Brian Garza,12,Python,Africa
+72,Timothy Guerrero,5,Snowflake,Africa
+73,Megan Wagner,5,Data Engineering,UK
+74,Michael Warren,11,Snowflake,South America
+75,Michele Rivera,5,AWS,Europe
+76,Terry Bryant,8,SQL,Middle East
+77,Jessica Hale,4,Data Engineering,Africa
+78,Nicole Carroll,1,Azure,North America
+79,Miss Laura Perry,9,Data Analytics,North America
+80,Dr. Jasmine Gonzalez MD,10,Tableau,India
+81,Devon Leon,6,SQL,UK
+82,Caitlin Davis,3,SQL,Middle East
+83,Russell Curtis PhD,2,SQL,Europe
+84,Deborah Morgan,11,Data Analytics,APAC
+85,Timothy Collier,4,SQL,India
+86,Danny Anderson,4,Azure,Africa
+87,Regina Hicks,12,AWS,UK
+88,Andrea Young,11,ETL,Africa
+89,Jessica Reyes,6,ETL,APAC
+90,Angel Walters MD,12,Data Analytics,India
+91,Gerald Ross,7,Data Analytics,Middle East
+92,Tracy Becker,11,Python,UK
+93,Anthony Pena,2,Azure,Middle East
+94,Nicole Robinson,11,Azure,India
+95,Deborah Bailey,2,Power BI,India
+96,Jonathan Garcia,8,ETL,UK
+97,Timothy Meyers,11,Azure,UK
+98,Nicole Jacobs,5,Power BI,South America
+99,Ashley Lee,6,SQL,UK
+100,Stephanie Cobb,6,Snowflake,APAC
+101,Jonathon Hernandez,6,Data Analytics,South America
+102,Heather Ruiz,10,Tableau,UK
+103,Claudia Mayo,2,Python,India
+104,Christina Martinez,11,Python,North America
+105,Rose Colon,11,Python,Africa
+106,Stacey Brown,1,Tableau,Europe
+107,Debra Peterson,12,ETL,Africa
+108,Debra Chavez,9,Python,North America
+109,Alyssa Stewart,4,Power BI,North America
+110,Tamara Potter,1,Power BI,UK
+111,Robin Barrera,6,Tableau,Africa
+112,William Williams,8,Snowflake,Africa
+113,Christina Williams,3,AWS,APAC
+114,Dustin Craig,3,SQL,India
+115,Regina Erickson,9,ETL,APAC
+116,Nicholas Taylor,11,Power BI,India
+117,Lisa Lee,8,AWS,Africa
+118,Cheryl Simmons,3,Python,Middle East
+119,Brenda Garcia,3,Tableau,Africa
+120,Keith Cochran,4,Data Engineering,India
+121,Charles Mitchell,3,ETL,South America
+122,Dorothy Smith,12,Tableau,APAC
+123,Brandi Lewis,4,Tableau,Middle East
+124,Ashley Shaw,12,Data Analytics,APAC
+125,Catherine Love,7,Azure,South America
+126,Jennifer Mcdonald,1,Tableau,Middle East
+127,Stacy Harrison,4,AWS,APAC
+128,Michelle Baldwin,11,Data Engineering,Middle East
+129,Christina King,4,SQL,South America
+130,Jane Erickson,8,Power BI,APAC
+131,Kathy Huff,10,Python,South America
+132,Jesse Blackburn,12,SQL,Middle East
+133,Miguel Watts,5,Azure,India
+134,Christine Price,7,ETL,Europe
+135,Eric Martinez,2,Power BI,India
+136,Michelle Barton,8,Azure,North America
+137,Teresa Wood,5,Data Analytics,Middle East
+138,Luke Hays,12,Tableau,Africa
+139,Matthew Smith,2,Data Analytics,UK
+140,Bryan Cox,4,SQL,APAC
+141,Jessica Howell,5,Data Engineering,North America
+142,James Mcknight,11,Tableau,North America
+143,Luke Brooks,7,Data Analytics,UK
+144,Dr. Amanda Hernandez,8,Power BI,India
+145,Theodore Silva,3,Snowflake,Europe
+146,Tristan Brown,6,Tableau,South America
+147,Alan Park,4,Azure,Europe
+148,Anna Rollins,11,Snowflake,South America
+149,Christopher Mercer,4,Power BI,Middle East
+150,Devin Ray,7,Data Analytics,APAC
+151,Steven Mcintyre,11,Snowflake,Africa
+152,Jasmine Monroe,12,Data Analytics,APAC
+153,Dawn Kim,2,Power BI,North America
+154,Michael Young,10,Python,UK
+155,James Johnston,12,Power BI,North America
+156,Daniel Perez,7,Data Engineering,Africa
+157,Ian Gonzalez,6,Power BI,Middle East
+158,Laurie Dunn,6,Python,Africa
+159,Christine Thomas,6,Tableau,Europe
+160,Edwin Duran,3,AWS,UK
+161,Michael Burke,2,Azure,South America
+162,Sandra Blevins,10,Power BI,Europe
+163,Kathryn Brown,6,Data Engineering,UK
+164,Karen Edwards,11,Azure,North America
+165,Christopher Humphrey,9,Snowflake,APAC
+166,Kelly Clark,8,Snowflake,UK
+167,Aaron Burton,2,Power BI,Europe
+168,Loretta Chavez,9,Azure,Middle East
+169,Steven Williams,12,Data Analytics,South America
+170,Michael Rivers,2,Python,APAC
+171,Robert Cummings,4,Python,UK
+172,Timothy Chang,4,Python,UK
+173,Ricky Tyler,9,Python,Africa
+174,Samuel Perez,3,Data Engineering,UK
+175,Jessica Gonzalez,9,ETL,APAC
+176,Kenneth Robinson,12,Azure,Europe
+177,Mario Williams,3,Power BI,Europe
+178,Marcus Guerra,6,ETL,Europe
+179,Keith Petty,8,AWS,India
+180,Tony Bailey,10,AWS,India
+181,Danielle Sellers,6,Tableau,Europe
+182,Courtney Hernandez,7,Tableau,Africa
+183,Ian Moore,5,Power BI,Middle East
+184,Marcus Watson,11,ETL,India
+185,Johnathan Griffith,10,SQL,UK
+186,Derrick Davis,5,Python,India
+187,David Wright,1,ETL,Europe
+188,Mary Baker,6,Data Analytics,Europe
+189,Jessica Curtis,12,Data Engineering,Africa
+190,Julie Porter,5,Data Analytics,Middle East
+191,Christine Roberts,8,SQL,Middle East
+192,Dr. Brenda Glenn,2,Tableau,APAC
+193,Adam Jones,10,Power BI,Middle East
+194,Heather Patel,10,Python,South America
+195,Jaclyn Smith,5,Azure,Europe
+196,Samuel Mccormick,6,Azure,Europe
+197,Mary Miller,12,ETL,Europe
+198,Matthew Obrien,8,SQL,APAC
+199,Kendra Ferguson,7,Data Engineering,Europe
+200,Mr. William Padilla,5,Tableau,Europe
+201,Deborah Ramos MD,7,Tableau,North America
+202,Angel Cameron,6,Power BI,Europe
+203,Gregory Peterson,7,Snowflake,India
+204,Dr. Charles Davis,12,Tableau,UK
+205,Jeffrey Gray,4,Azure,South America
+206,Martin Calhoun,7,Tableau,India
+207,Marvin Williams,12,Snowflake,India
+208,Paige Williams,3,Power BI,APAC
+209,Sarah James,2,ETL,Middle East
+210,Tiffany Torres,10,Azure,APAC
+211,Daniel Bailey,8,ETL,APAC
+212,Paul Payne,9,AWS,North America
+213,Eric Barber,12,ETL,Africa
+214,Jason Clark,11,Power BI,APAC
+215,Teresa Morgan,2,Data Analytics,Africa
+216,Mary Brooks,2,Snowflake,Middle East
+217,John Reeves,4,AWS,APAC
+218,Ashlee Love,10,Data Analytics,Africa
+219,Cole Thomas,11,Data Engineering,Middle East
+220,Thomas Wagner,5,Data Analytics,Europe
+221,Jonathan Larsen,1,Python,Africa
+222,Mrs. Joan Harris,9,Snowflake,North America
+223,Steven Mills,10,AWS,Europe
+224,Stephen Harris,7,Tableau,India
+225,Michelle Lester,5,SQL,UK
+226,Thomas Smith,4,Power BI,Europe
+227,Gregory Moran,2,AWS,Africa
+228,Emily Burke,10,Tableau,North America
+229,Gregory Oconnell,6,Tableau,UK
+230,Alexander Medina,7,Python,North America
+231,Monica Green,3,Python,Middle East
+232,Christine Barnes,6,ETL,Europe
+233,Joseph Sanchez,11,Power BI,Africa
+234,Charles Mccullough,5,Power BI,Middle East
+235,Kimberly Clements,2,ETL,APAC
+236,Patrick Cruz,6,Data Engineering,Europe
+237,Stephen Mcintosh,2,Azure,Middle East
+238,Karen Everett,2,Azure,Africa
+239,John Joseph,12,Azure,APAC
+240,Sandra Thomas,8,Data Analytics,North America
+241,Nicholas Dennis,10,ETL,South America
+242,Sean Villa,9,Snowflake,Africa
+243,Raymond Jimenez,7,Snowflake,India
+244,Samantha Rodriguez,3,Snowflake,South America
+245,Danny Brown,9,Tableau,UK
+246,Tommy Yang,9,Snowflake,North America
+247,Tammy Brown,8,AWS,North America
+248,Tracy Evans,6,Data Engineering,India
+249,Melissa Ballard,3,SQL,Europe
+250,Lauren Carson,1,ETL,UK
+251,Joshua Carter,4,Power BI,Middle East
+252,Clayton Roberson,6,SQL,North America
+253,Paul Keller,4,ETL,Middle East
+254,Lisa Hampton,6,AWS,Europe
+255,Dawn Collins,11,SQL,India
+256,Jennifer Burke,7,ETL,UK
+257,Marc Howell,12,ETL,South America
+258,Travis Miranda,11,ETL,Middle East
+259,Billy Thomas,3,ETL,Africa
+260,Joshua Tyler,8,Snowflake,Middle East
+261,Timothy Potts,2,SQL,North America
+262,Louis Roberts,12,Tableau,North America
+263,Kyle Ferguson,2,Snowflake,UK
+264,Ashlee Lewis,7,ETL,UK
+265,Teresa Montes,12,ETL,Middle East
+266,Matthew Evans,11,Snowflake,APAC
+267,Matthew Mason,2,ETL,India
+268,Denise Davis,5,Data Engineering,Middle East
+269,Jason Boyd,5,AWS,Europe
+270,Ashley Brown,10,Snowflake,Middle East
+271,Hunter Garcia,1,Azure,Africa
+272,Joshua Roberts,3,Azure,North America
+273,Renee Jackson,9,AWS,South America
+274,Jonathon Johnson,1,Tableau,Middle East
+275,Melissa Benton,1,Power BI,North America
+276,Jon Holland,4,Python,APAC
+277,Margaret Saunders,8,Power BI,Europe
+278,Joshua Anderson,7,Azure,UK
+279,Nicole Waters,12,ETL,APAC
+280,Stephanie Kelley,6,AWS,APAC
+281,Kenneth Nelson,1,Tableau,Middle East
+282,Mrs. Angela Fletcher,1,Data Analytics,Europe
+283,Ms. Denise Henderson,10,Azure,Africa
+284,Mike Flores,2,Snowflake,APAC
+285,Susan Cook,4,Power BI,APAC
+286,Linda White,10,AWS,APAC
+287,Michael Frazier,11,AWS,Africa
+288,Alejandro Raymond,5,Data Analytics,Africa
+289,Mark Steele,10,SQL,Africa
+290,Kari Turner,8,ETL,UK
+291,Kelly Kennedy,10,ETL,APAC
+292,Seth Green,1,Azure,North America
+293,April Flores,8,Azure,Middle East
+294,Monica Bailey,1,Data Analytics,Middle East
+295,Lauren Garza,6,Python,India
+296,Cassandra Fox,9,Tableau,Middle East
+297,Cathy Gomez,6,Power BI,North America
+298,Kimberly Sullivan,6,Data Engineering,UK
+299,Stephanie Wall,9,Snowflake,Europe
+300,Marvin Williamson,8,SQL,APAC

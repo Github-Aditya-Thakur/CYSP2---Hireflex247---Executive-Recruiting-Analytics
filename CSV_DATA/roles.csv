@@ -1,0 +1,61 @@
+role_id,role_title,primary_skill,priority
+1,ETL Developer,Snowflake,Medium
+2,BI Analyst,Power BI,Medium
+3,Analytics Engineer,ETL,Medium
+4,Analytics Engineer,Snowflake,Low
+5,Analytics Engineer,AWS,Low
+6,Data Analyst,Data Analytics,Medium
+7,Analytics Engineer,SQL,Low
+8,Data Engineer,Snowflake,Low
+9,Analytics Engineer,Python,Low
+10,ETL Developer,SQL,Low
+11,BI Analyst,Tableau,High
+12,ETL Developer,Data Engineering,Medium
+13,Analytics Engineer,Tableau,Medium
+14,BI Analyst,Azure,High
+15,Data Analyst,SQL,Low
+16,BI Analyst,AWS,High
+17,Data Engineer,SQL,Low
+18,Data Analyst,Tableau,Medium
+19,Analytics Engineer,AWS,Medium
+20,ETL Developer,Python,Low
+21,Data Engineer,ETL,High
+22,Data Engineer,Azure,Medium
+23,Data Analyst,Python,High
+24,Data Engineer,Azure,Medium
+25,Analytics Engineer,Power BI,Low
+26,BI Analyst,AWS,High
+27,Analytics Engineer,Power BI,High
+28,Data Analyst,SQL,High
+29,Data Analyst,Python,Medium
+30,BI Analyst,Data Analytics,Medium
+31,Data Engineer,Snowflake,Medium
+32,Data Engineer,Data Analytics,High
+33,Data Analyst,ETL,Low
+34,Analytics Engineer,Data Engineering,Medium
+35,Data Analyst,SQL,Low
+36,Data Engineer,Data Engineering,High
+37,Data Analyst,AWS,Low
+38,BI Analyst,Snowflake,High
+39,Data Analyst,Data Engineering,Low
+40,Data Analyst,Power BI,High
+41,Analytics Engineer,SQL,Medium
+42,Data Analyst,Data Analytics,High
+43,BI Analyst,Data Engineering,Low
+44,Data Engineer,Python,Medium
+45,Data Analyst,ETL,Medium
+46,Data Analyst,SQL,Low
+47,Analytics Engineer,ETL,High
+48,Analytics Engineer,SQL,High
+49,Analytics Engineer,Snowflake,Medium
+50,BI Analyst,Data Analytics,Low
+51,Analytics Engineer,Azure,High
+52,Data Engineer,Tableau,High
+53,ETL Developer,AWS,Low
+54,Analytics Engineer,ETL,Medium
+55,BI Analyst,Tableau,High
+56,Data Analyst,Azure,High
+57,Data Engineer,Snowflake,High
+58,BI Analyst,Azure,Low
+59,Data Analyst,Python,Low
+60,Data Analyst,Power BI,Low

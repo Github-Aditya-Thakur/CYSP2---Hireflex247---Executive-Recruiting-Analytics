@@ -1,0 +1,51 @@
+client_id,client_name,industry,region
+1,Woods-Clark,Manufacturing,Africa
+2,Garcia-Wells,Manufacturing,Middle East
+3,Scott Inc,Telecom,North America
+4,Rich and Sons,Healthcare,UK
+5,Turner and Sons,FinTech,Africa
+6,Patterson-Smith,SaaS,Europe
+7,Nichols and Sons,Logistics,APAC
+8,"Sanchez, Dennis and Murphy",Healthcare,Middle East
+9,Bernard-Ramos,Manufacturing,UK
+10,Stevens-Smith,Manufacturing,South America
+11,Miranda Group,Retail,APAC
+12,"Leon, Rogers and Warren",SaaS,India
+13,Jones LLC,Retail,Africa
+14,Barnes PLC,Healthcare,APAC
+15,"White, Olson and Ball",Retail,Africa
+16,"Ortiz, Ortiz and Jordan",Manufacturing,APAC
+17,Sutton PLC,Logistics,Africa
+18,Mendez Group,SaaS,Middle East
+19,Smith Inc,Banking,South America
+20,Dunn-Watson,Manufacturing,Europe
+21,Manning-Hancock,Telecom,India
+22,Sharp-Morales,Manufacturing,Africa
+23,"Christian, Howell and Ward",FinTech,Middle East
+24,Richardson Ltd,Healthcare,South America
+25,Bishop and Sons,FinTech,Europe
+26,Richardson-Mayer,SaaS,APAC
+27,Estes-Lee,FinTech,South America
+28,"Nelson, Anderson and Thompson",Logistics,Europe
+29,"Lee, Reid and Mercado",Banking,Europe
+30,"Terrell, Chase and Allen",SaaS,APAC
+31,Smith and Sons,SaaS,North America
+32,"Thompson, Chavez and Miller",FinTech,Europe
+33,Moody Group,Logistics,Africa
+34,"Hernandez, Woods and Harrington",Telecom,North America
+35,"Baker, Myers and Sutton",SaaS,North America
+36,Cummings LLC,Logistics,Europe
+37,Ford Inc,Banking,Africa
+38,Mckee-Greer,Telecom,Europe
+39,"Garcia, Cox and Williams",Banking,Middle East
+40,Fitzgerald-Hernandez,SaaS,North America
+41,Bowman Group,Logistics,North America
+42,"Mack, Rangel and Flowers",Banking,APAC
+43,Mack-Kim,Retail,APAC
+44,"Benson, Reyes and Rose",Healthcare,South America
+45,"Clark, Ward and White",Banking,North America
+46,"James, Graves and Sullivan",Retail,APAC
+47,Ortiz PLC,Manufacturing,Europe
+48,Alexander-Kramer,Banking,Europe
+49,"Woods, Phillips and Henderson",Retail,Middle East
+50,Pennington Inc,Manufacturing,Europe
