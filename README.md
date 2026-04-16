@@ -7,7 +7,7 @@ The dashboard supports leadership decisions by highlighting bottlenecks, SLA ris
 ---
 
 ## 🏢 Business Context (Company Alignment)
-This project aligns with the work of a **global recruiting firm** (e.g., Hireflex247) that delivers talent across regions and industries.  
+This project aligns with the work of a **global recruiting firm**-**Hireflex247** that delivers talent across regions and industries.  
 The dashboard is designed to:
 - Track pipeline health in real time  
 - Improve **SLA compliance**  
@@ -94,6 +94,16 @@ Synthetic recruiting dataset created to simulate a real global staffing pipeline
 1. Download `.pbix` file  
 2. Open in Power BI Desktop  
 3. Explore filters by year, region, role, client, recruiter  
+
+---
+## Work-Proof 
+<p align="center">
+  <img src="Page-1.png" width="500"/>
+  <img src="Page-2.png" width="500"/>
+  <img src="Page-3.png" width="500"/>
+  <img src="Page-4.png" width="500"/>
+  <img src="Page-5.png" width="500"/>
+</p>
 
 ---
 
